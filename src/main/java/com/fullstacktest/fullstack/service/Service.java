@@ -1,7 +1,7 @@
-package com.fullstacktest.test.service;
+package com.fullstacktest.fullstack.service;
 
-import com.fullstacktest.test.model.CountryResult;
-import com.fullstacktest.test.model.ResourceAllocator;
+import com.fullstacktest.fullstack.model.CountryResult;
+import com.fullstacktest.fullstack.model.ResourceAllocator;
 import java.util.*;
 
 @org.springframework.stereotype.Service

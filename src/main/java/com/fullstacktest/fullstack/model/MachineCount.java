@@ -1,4 +1,4 @@
-package com.fullstacktest.test.model;
+package com.fullstacktest.fullstack.model;
 
 public record MachineCount(String machineType, int count) {
 

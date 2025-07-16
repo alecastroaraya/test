@@ -1,6 +1,6 @@
-package com.fullstacktest.test;
+package com.fullstacktest.fullstack;
 
-import com.fullstacktest.test.service.Service;
+import com.fullstacktest.fullstack.service.Service;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

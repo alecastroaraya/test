@@ -1,6 +1,6 @@
-package com.fullstacktest.test.service;
+package com.fullstacktest.fullstack.service;
 
-import com.fullstacktest.test.model.ResourceAllocator;
+import com.fullstacktest.fullstack.model.ResourceAllocator;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;

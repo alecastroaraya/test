@@ -1,4 +1,4 @@
-package com.fullstacktest.test.model;
+package com.fullstacktest.fullstack.model;
 
 import org.junit.jupiter.api.Test;
 

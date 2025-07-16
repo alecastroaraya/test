@@ -1,7 +1,7 @@
-package com.fullstacktest.test.controller;
+package com.fullstacktest.fullstack.controller;
 
-import com.fullstacktest.test.model.CountryResult;
-import com.fullstacktest.test.service.Service;
+import com.fullstacktest.fullstack.model.CountryResult;
+import com.fullstacktest.fullstack.service.Service;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;

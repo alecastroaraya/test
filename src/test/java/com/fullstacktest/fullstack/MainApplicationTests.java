@@ -8,7 +8,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 
 @SpringBootTest
-class TestApplicationTests {
+class MainApplicationTests {
 
 	@Autowired
 	private Service service = new Service();

@@ -18,7 +18,7 @@ class MainApplicationTests {
 	}
 
 	@Test
-	void allocateResources_returnsNonEmptyResults() {
+	void allocate_returnsNonEmptyResults() {
 		assertFalse(service.allocate(1, 100).isEmpty());
 	}
 
